@@ -1,4 +1,4 @@
-# 👋 Hello! Welcome to My GitHub Profile
+![68747470733a2f2f696d672e736869656c64732e696f2f62616467652f707974686f6e2d3336373041303f7374796c653d666f722d7468652d6261646765266c6f676f3d707974686f6e266c6f676f436f6c6f723d666664643534](https://github.com/user-attachments/assets/128834e9-549c-4c64-93d1-19ac4121abc3)# 👋 Hello! Welcome to My GitHub Profile
 
 ---
 
@@ -45,7 +45,14 @@
   - 프로젝트: **Walk Everywhere**  
     - 교통 약자를 위한 안전한 길 찾기 어플리케이션  
     - YOLO를 활용한 장애물 인식 및 경로 안전도 분석  
-    - 사용자 소통 창구로 길 상태 공유 기능 제안  
+    - 사용자 소통 창구로 길 상태 공유 기능 제안
+   
+- **TECH4GOOD 해커톤** (2023/09/23)  
+  - 주제: 사회적 약자를 위한 기술  
+  - 프로젝트: **Walk Everywhere**  
+    - 교통 약자를 위한 안전한 길 찾기 어플리케이션  
+    - YOLO를 활용한 장애물 인식 및 경로 안전도 분석  
+    - 사용자 소통 창구로 길 상태 공유 기능 제안
 
 ---
 
@@ -58,14 +65,15 @@
 ---
 
 ### 🌟 Skills
-- Programming Languages: Java, Python, C, JavaScript  
-- Frameworks: Spring Boot
-- Databases: MySQL
-- Tools: Git, Docker, K8S
-- AI/ML: TensorFlow, PyTorch
+- Programming Languages: ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white), ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white), ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) 
+- Frameworks: ![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white), MyBatis
+- Library : ![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens) 
+- Databases: ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
+- Tools: ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) ![Kubernetes](https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white)
+- AI/ML: ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white)
 
 ---
 
 ### 📫 Contact Me
-- **Email**: dlskawo0409@naver.com 
-
+- **Email**: dlskawo0409@naver.com, dlskawo0409@gmail.com
+- 
