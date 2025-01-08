@@ -1,6 +1,14 @@
 # 👋 Hello! Welcome to My GitHub Profile
 
 ---
+<a href="https://github.com/devxb/gitanimals">
+<img
+  src="https://render.gitanimals.org/farms/dlskawo0409"
+  width="600"
+  height="300"
+/>
+</a>
+
 
 ### 🚀 About Me
 안녕하세요! 저는 열정적으로 학습하고 성장하며 문제를 해결하는 개발자입니다.  
